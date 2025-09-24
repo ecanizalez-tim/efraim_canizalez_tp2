@@ -1,15 +1,15 @@
 # 🎮 Les Ruines du Singe de Pierre
 
 ## 🧑‍🚀 Personnage jouable
-**Nom : Rin**  
-Petit héros animal agile, expressif et attachant.  
+**Nom : 
+Petit héros agile et attachant.  
 
 **Caractéristiques :**
-- Saut, double saut, attaque tourbillon, écrasement au sol.  
+- Saut, double saut, écrasement au sol.  
 - Animations humoristiques et dynamiques.  
 
 **Justification :**  
-Rin est un personnage simple à lire visuellement, amusant à contrôler, et qui apporte une identité forte au jeu.
+Personnage simple à lire visuellement, amusant à contrôler, et qui apporte une identité forte au jeu.
 
 ---
 
@@ -29,7 +29,7 @@ La jungle est idéale pour mélanger obstacles naturels et structures artificiel
 - **Caisse TNT** → explose après 3 secondes, détruit obstacles ou ennemis.  
 - **Lianes** → permettent de se balancer pour franchir un trou.  
 - **Totems piégés** → sortent du sol et bloquent temporairement le chemin.  
-- **Masque compagnon (Ignis)** → invincibilité temporaire.  
+ 
 
 **Justification :**  
 Ces objets gardent une logique simple, compréhensible au premier coup d’œil, tout en variant le gameplay.
@@ -39,7 +39,7 @@ Ces objets gardent une logique simple, compréhensible au premier coup d’œil,
 ## 🎶 Médias visuels et sonores
 
 ### 🎨 Visuels
-- **Style graphique :** Cartoon 3D coloré, textures stylisées.  
+- **Style graphique :** Pixels 2D coloré.
 - **Palette :** Dominante verte/brune pour la jungle, avec rouge/orange pour les pièges et TNT.  
 
 **Justification :**  
@@ -51,8 +51,8 @@ Le contraste permet une lecture claire des zones sûres et des dangers.
   - Bois qui éclate (caisse).  
   - Explosion exagérée (TNT).  
   - Frottement de corde (liane).  
-  - Cris humoristiques de Rin (saut/dégâts).  
+  - Cris humoristiques du personnage (saut/dégâts).  
 
 **Justification :**  
-Les sons cartoon renforcent le côté fun et lisible du gameplay, tout en donnant une personnalité unique au jeu.
+Les sons cartoon renforcent le côté fun et lisible du gameplay, tout en donnant une personnalité au jeu.
 
