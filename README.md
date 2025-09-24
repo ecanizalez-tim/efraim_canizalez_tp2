@@ -1,6 +1,6 @@
-# 🎮 Les Ruines du Singe de Pierre
+# Les Ruines du Singe de Pierre
 
-## 🧑‍🚀 Personnage jouable
+## Personnage jouable
 **Nom : 
 Petit héros agile et attachant.  
 
@@ -13,7 +13,7 @@ Personnage simple à lire visuellement, amusant à contrôler, et qui apporte un
 
 ---
 
-## 🌿 Environnement
+## Environnement
 **Thématique : Jungle & Ruines anciennes**  
 - Végétation dense (lianes, fougères, arbres géants).  
 - Temples en pierre effondrés et ponts de cordes branlants.  
@@ -24,7 +24,7 @@ La jungle est idéale pour mélanger obstacles naturels et structures artificiel
 
 ---
 
-## 🧩 Objets interactifs
+## Objets interactifs
 - **Caisse en bois** → se brise et libère des collectibles.  
 - **Caisse TNT** → explose après 3 secondes, détruit obstacles ou ennemis.  
 - **Lianes** → permettent de se balancer pour franchir un trou.  
@@ -36,16 +36,16 @@ Ces objets gardent une logique simple, compréhensible au premier coup d’œil,
 
 ---
 
-## 🎶 Médias visuels et sonores
+##  Médias visuels et sonores
 
-### 🎨 Visuels
+###  Visuels
 - **Style graphique :** Pixels 2D coloré.
 - **Palette :** Dominante verte/brune pour la jungle, avec rouge/orange pour les pièges et TNT.  
 
 **Justification :**  
 Le contraste permet une lecture claire des zones sûres et des dangers.
 
-### 🔊 Sonores
+### Sonores
 - **Musique :** Percussions tribales + flûtes pour une ambiance jungle-aventure.  
 - **Effets sonores :**  
   - Bois qui éclate (caisse).  
