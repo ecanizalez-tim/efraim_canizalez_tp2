@@ -1,58 +1,50 @@
-# Les Ruines du Singe de Pierre
+# Lantern of the Forgotten – Niveau 1 : Catacombes de Cendre
 
-## Personnage jouable
-**Nom : 
-Petit héros agile et attachant.  
+## Thématique et Concept du Niveau
+Le premier niveau, **Les Catacombes de Cendre**, introduit le joueur dans une atmosphère sombre et mystérieuse.  
+L’exploration se déroule dans un ancien sanctuaire souterrain oublié, envahi par les cendres et les esprits.  
+Le gameplay repose sur la gestion de la **lumière**, indispensable pour révéler des chemins, combattre des ennemis invisibles et progresser dans l’obscurité.  
 
-**Caractéristiques :**
-- Saut, double saut, écrasement au sol.  
-- Animations humoristiques et dynamiques.  
+---
 
-**Justification :**  
-Personnage simple à lire visuellement, amusant à contrôler, et qui apporte une identité forte au jeu.
+## Personnage Principal
+- **Identité :** Un vagabond sans nom, lié par magie à une lumière féérique.  
+- **Rôle :** Explorer les profondeurs, combattre les créatures maudites et découvrir l’origine de la lumière.  
+- **Pouvoirs initiaux :**  
+  - *Coup* : attaque de base.  
+  - *Éclat lumineux* : révèle des plateformes cachées.  
+  - *Recharge spirituelle* : absorber l’énergie des ennemis pour raviver la lumière.  
+
+**Pourquoi ce choix ?**  
+Le personnage est faible et vulnérable au départ, mais gagne en puissance grâce à la lumière. Sa silhouette simple permet de renforcer le contraste visuel entre l’ombre et la lueur.  
 
 ---
 
 ## Environnement
-**Thématique : Jungle & Ruines anciennes**  
-- Végétation dense (lianes, fougères, arbres géants).  
-- Temples en pierre effondrés et ponts de cordes branlants.  
-- Atmosphère d’aventure exotique avec une touche comique.  
+- **Style :** Catacombes souterraines effondrées, inspirées de l’architecture gothique.  
+- **Éléments visuels :** pierres fissurées, poussières de cendres flottantes, veines lumineuses dans les murs.  
+- **Progression :** chemin linéaire enrichi de passages secrets et d’embranchements facultatifs.  
 
-**Justification :**  
-La jungle est idéale pour mélanger obstacles naturels et structures artificielles (ponts, ruines, pièges), ce qui permet une grande variété de mécaniques de plateforme.
-
----
-
-## Objets interactifs
-- **Caisse en bois** → se brise et libère des collectibles.  
-- **Caisse TNT** → explose après 3 secondes, détruit obstacles ou ennemis.  
-- **Lianes** → permettent de se balancer pour franchir un trou.  
-- **Totems piégés** → sortent du sol et bloquent temporairement le chemin.  
- 
-
-**Justification :**  
-Ces objets gardent une logique simple, compréhensible au premier coup d’œil, tout en variant le gameplay.
+**Pourquoi ce choix ?**  
+Les catacombes créent une atmosphère oppressante et servent de tutoriel narratif.  
 
 ---
 
-##  Médias visuels et sonores
+## Objets Interactifs
+- **Orbes spirituels :** Ressource principale pour recharger la magie.  
+- **Murs cachés :** Passages invisibles révélés uniquement par la lumière.  
+- **Sanctuaires d’esprit :** Points de sauvegarde et de soin.  
+- **Verrou d’obsidienne :** Barrière nécessitant une amélioration future.  
 
-###  Visuels
-- **Style graphique :** Pixels 2D coloré.
-- **Palette :** Dominante verte/brune pour la jungle, avec rouge/orange pour les pièges et TNT.  
+**Pourquoi ce choix ?**  
+Ces objets renforcent la mécanique centrale (la lumière), stimulent l’exploration et instaurent une progression de type *Metroidvania*.  
 
-**Justification :**  
-Le contraste permet une lecture claire des zones sûres et des dangers.
+---
 
-### Sonores
-- **Musique :** Percussions tribales + flûtes pour une ambiance jungle-aventure.  
-- **Effets sonores :**  
-  - Bois qui éclate (caisse).  
-  - Explosion exagérée (TNT).  
-  - Frottement de corde (liane).  
-  - Cris humoristiques du personnage (saut/dégâts).  
+## Médias Visuels et Sonores
+- **Visuels :** Palette de couleurs sobres (gris, noir, rouge sombre) contrastée par des effets lumineux.  
+- **Sonores :** échos, craquements de pierre, respirations fantomatiques.  
+- **Musique :** atmosphérique et dramatique (violoncelle, percussions graves, chœurs discrets).  
 
-**Justification :**  
-Les sons cartoon renforcent le côté fun et lisible du gameplay, tout en donnant une personnalité au jeu.
-
+**Pourquoi ce choix ?**  
+Le contraste entre obscurité et lumière se traduit aussi par un contraste sonore : silence pesant en exploration, tension dramatique en combat.  
