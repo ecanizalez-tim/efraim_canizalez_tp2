@@ -1,5 +1,3 @@
-# Lantern of the Forgotten – Niveau 1 : Catacombes de Cendre
-
 ## Thématique et Concept du Niveau
 Le premier niveau, **Les Catacombes de Cendre**, introduit le joueur dans une atmosphère sombre et mystérieuse.  
 L’exploration se déroule dans un ancien sanctuaire souterrain oublié, envahi par les cendres et les esprits.  
