@@ -40,7 +40,7 @@ Ces objets renforcent la mécanique centrale (la lumière), stimulent l’explor
 ---
 
 ## Médias Visuels et Sonores
-- **Visuels :** Palette de couleurs sobres (gris, noir, rouge sombre) contrastée par des effets lumineux. [Pack utilisé](https://datagoblin.itch.io/dungeonmode/download/eyJleHBpcmVzIjoxNzU5MjU4Mzk4LCJpZCI6MzM2Njg4MH0%3d%2eSRs2cOc9%2bZiTIlR7ObqAo%2f0%2bj4A%3d)
+- **Visuels :** Palette de couleurs sobres (gris, noir, rouge sombre) contrastée par des effets lumineux. [Pack utilisé](https://kenney-assets.itch.io/micro-roguelike)
 - **Sonores :** échos, craquements de pierre, respirations fantomatiques.  
 - **Musique :** atmosphérique et dramatique (violoncelle, percussions graves, chœurs discrets).  
 
