@@ -40,7 +40,7 @@ Ces objets renforcent la mécanique centrale (la lumière), stimulent l’explor
 ---
 
 ## Médias Visuels et Sonores
-- **Visuels :** Palette de couleurs sobres (gris, noir, rouge sombre) contrastée par des effets lumineux. [Assets utilisé pour les personnages]([https://kenney-assets.itch.io/micro-roguelike] (https://www.kenney.nl/assets/roguelike-characters)), [Assets utilisé](https://www.kenney.nl/assets/micro-roguelike) 
+- **Visuels :** Palette de couleurs sobres (gris, noir, rouge sombre) contrastée par des effets lumineux. [Assets utilisé pour les personnages](https://www.kenney.nl/assets/roguelike-characters), [Assets utilisé](https://www.kenney.nl/assets/micro-roguelike) 
 - **Sonores :** échos, craquements de pierre, respirations fantomatiques.  
 - **Musique :** atmosphérique et dramatique (violoncelle, percussions graves, chœurs discrets).  
 
